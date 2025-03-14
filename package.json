@@ -1,0 +1,35 @@
+{
+  "type": "module",
+  "name": "@jsxfill/payloadcms",
+  "version": "0.1.6",
+  "private": false,
+  "files": [
+    "jsx-runtime.js",
+    "jsx-runtime.d.ts",
+    "jsx-dev-runtime.js",
+    "jsx-dev-runtime.d.ts"
+  ],
+  "peerDependencies": {
+    "payload": "*",
+    "type-fest": "*"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsxfill/payloadcms.git"
+  },
+  "description": "Payload CMS JSX Fill",
+  "keywords": [
+    "payload",
+    "cms",
+    "jsx"
+  ],
+  "author": "FrameMuse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsxfill/payloadcms/issues"
+  },
+  "homepage": "https://github.com/jsxfill/payloadcms#readme"
+}
